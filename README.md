@@ -17,7 +17,7 @@
     virtualenv venv --python=python3.11
 
 # Activate virtual environment
-    source env/bin/activate
+    source venv/bin/activate
 
 # install requirement.txt file
     pip3 install -r requirements.txt
